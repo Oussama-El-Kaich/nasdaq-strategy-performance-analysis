@@ -8,7 +8,7 @@ R, Data Analysis, Statistical Evaluation, Monte Carlo Simulation
 
 ## Key Analysis
 - Built and cleaned a dataset of historical trades (entry, stop loss, take profit, P&L)
-- Evaluated key metrics: win rate, risk-reward ratio (~4.0), and trade duration (~66 min)
+- Evaluated key metrics: win rate, avg risk-reward ratio (~4.0), and avg trade duration (~66 min)
 - Analyzed performance across trade direction (buy vs sell) and weekdays
 - Simulated future performance using Monte Carlo simulation
 
