@@ -32,7 +32,7 @@ Demonstrates ability to:
 ### Win/Loss Proportions
 ![Win Loss](Win_loss.png)
 
-### Breakeven Analysis
+### Win Rate and Breakeven Analysis
 ![Breakeven](Breakeven_Matrix.png)
 
 ### Monte Carlo Simulation
