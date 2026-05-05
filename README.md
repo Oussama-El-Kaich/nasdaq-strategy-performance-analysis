@@ -27,7 +27,7 @@ Demonstrates ability to:
 ## Key Visuals
 
 ### Equity Curve
-![Equity Curve](Equity curve.png)
+![Equity Curve](Equity_curve.png)
 
 ### Win/Loss Proportions
 ![Win Loss](win_loss_analysis.png)
@@ -36,4 +36,4 @@ Demonstrates ability to:
 ![Breakeven](breakeven_matrix.png)
 
 ### Monte Carlo Simulation
-![Monte Carlo](Monte carlo.png)
+![Monte Carlo](Monte_carlo.png)
