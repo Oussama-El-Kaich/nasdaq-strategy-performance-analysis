@@ -30,10 +30,10 @@ Demonstrates ability to:
 ![Equity Curve](Equity_curve.png)
 
 ### Win/Loss Proportions
-![Win Loss](win_loss.png)
+![Win Loss](Win_loss.png)
 
 ### Breakeven Analysis
-![Breakeven](breakeven_matrix.png)
+![Breakeven](Breakeven_matrix.png)
 
 ### Monte Carlo Simulation
 ![Monte Carlo](Monte_carlo.png)
