@@ -29,7 +29,7 @@ Demonstrates ability to:
 ### Equity Curve
 ![Equity Curve](Equity_curve.png)
 
-### Win/Loss Proportions
+### Win/Loss/BE Proportions
 ![Win Loss](Win_loss.png)
 
 ### Win Rate and Breakeven Threshold Analysis
