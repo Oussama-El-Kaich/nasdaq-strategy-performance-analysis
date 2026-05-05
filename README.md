@@ -1,23 +1,39 @@
 # Trading Strategy Performance Analysis (NASDAQ-100)
 
 ## Overview
-Analyzed trading performance using a self-collected dataset to evaluate strategy consistency and risk-reward characteristics.
+Analyzed a 10-month backtest of a NASDAQ-100 trading strategy using a self-collected dataset to evaluate performance, risk, and profitability.
 
 ## Tools
-R, Data Analysis, Statistical Evaluation
+R, Data Analysis, Statistical Evaluation, Monte Carlo Simulation
 
 ## Key Analysis
-- Built dataset from historical trades including entry, stop loss, take profit, and profit/loss
-- Evaluated key metrics such as win rate, risk-reward ratio, and trade duration
-- Analyzed performance across different time conditions
+- Built and cleaned a dataset of historical trades (entry, stop loss, take profit, P&L)
+- Evaluated key metrics: win rate, risk-reward ratio (~4.0), and trade duration (~66 min)
+- Analyzed performance across trade direction (buy vs sell) and weekdays
+- Simulated future performance using Monte Carlo simulation
 
 ## Key Insights
-- Strategy shows high risk-reward (~4.0) but low win rate (~22%)
-- Performance varies by day of the week (weaker Thu/Fri)
-- Buy-side trades demonstrated stronger outcomes
+- Strategy achieves high risk-reward (~4:1) with low win rate (~20–22%)
+- Buy-side trades show stronger performance than sell-side
+- Performance weakens on Thursdays and Fridays
+- Equity curve shows overall upward trend with controlled drawdowns
 
 ## Business Impact
 Demonstrates ability to:
 - Work with self-collected real-world data
-- Evaluate performance using quantitative metrics
-- Identify patterns to improve decision-making
+- Evaluate performance and risk using quantitative metrics
+- Apply simulation techniques to assess uncertainty and robustness
+
+## Key Visuals
+
+### Equity Curve
+![Equity Curve](equity_curve.png)
+
+### Win/Loss Proportions
+![Win Loss](win_loss_analysis.png)
+
+### Breakeven Analysis
+![Breakeven](breakeven_matrix.png)
+
+### Monte Carlo Simulation
+![Monte Carlo](monte_carlo.png)
