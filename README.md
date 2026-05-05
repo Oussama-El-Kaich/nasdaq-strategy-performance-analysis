@@ -30,7 +30,7 @@ Demonstrates ability to:
 ![Equity Curve](Equity_curve.png)
 
 ### Win/Loss Proportions
-![Win Loss](win_loss_analysis.png)
+![Win Loss](win_loss.png)
 
 ### Breakeven Analysis
 ![Breakeven](breakeven_matrix.png)
