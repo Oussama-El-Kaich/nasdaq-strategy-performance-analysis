@@ -33,7 +33,7 @@ Demonstrates ability to:
 ![Win Loss](Win_loss.png)
 
 ### Breakeven Analysis
-![Breakeven](Breakeven_matrix.png)
+![Breakeven](Breakeven_Matrix.png)
 
 ### Monte Carlo Simulation
 ![Monte Carlo](Monte_carlo.png)
